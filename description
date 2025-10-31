@@ -1,0 +1,4 @@
+Kod ma za zadanie przy pomocy KNN nauczyc sie danych z taskdata
+Najpierw naprawiam format poprzez zamiane przecinkow na kropki oraz zamieniam format na float
+nastepnie dziele dane na treningowe i testowe po czym sprawdzam jaka konfiguracja KNN bedzie najsesowniejsza
+po sprawdzeniu implementuje sugerowane przez wyliczenia parametry i otrzymuje wynik walidacji
